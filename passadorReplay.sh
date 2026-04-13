@@ -1,4 +1,5 @@
-#!/data/data/com.termux/files/usr/bin/bash
+#!/bin/bash
+
 
 REPLAY_SRC="/sdcard/Download"
 PKG="com.dts.freefireth"
