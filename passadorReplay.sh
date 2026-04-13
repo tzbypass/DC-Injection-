@@ -204,4 +204,5 @@ echo ""
 conectar_adb
 escolher_ff
 loop_automatico
+main
 }
